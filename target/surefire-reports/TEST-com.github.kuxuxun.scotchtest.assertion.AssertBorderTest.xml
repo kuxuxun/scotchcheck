@@ -45,7 +45,7 @@
     <property name="java.vm.specification.version" value="1.0"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher package"/>
     <property name="java.specification.vendor" value="Sun Microsystems Inc."/>
     <property name="user.language" value="ja"/>
     <property name="awt.toolkit" value="apple.awt.CToolkit"/>
@@ -64,13 +64,13 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase time="0.013" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="\u7D50\u5408\u3055\u308C\u3066\u3044\u308B\uFF11\u884C\u5206\u30BB\u30EB\u306E\u30DC\u30FC\u30C0\u30FC\u306E\u6307\u5B9A\u304C\u9593\u9055\u3063\u3066\u3044\u305F\u5834\u5408\u6B63\u3057\u304F\u30A8\u30E9\u30FC\u3068\u306A\u308B"/>
-  <testcase time="0.017" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="AllEachSurroundByborderTest"/>
-  <testcase time="0.011" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByborderTest"/>
-  <testcase time="0.007" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByborderLeftEdgeTest"/>
-  <testcase time="0.01" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByborderTopEdgeTest"/>
-  <testcase time="0.012" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundBySeveralBordersTest"/>
-  <testcase time="0.025" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="bordersOnEachSideTest"/>
-  <testcase time="0.006" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByBoxTest"/>
-  <testcase time="0.005" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByBorderTest"/>
+  <testcase time="0.015" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="\u7D50\u5408\u3055\u308C\u3066\u3044\u308B\uFF11\u884C\u5206\u30BB\u30EB\u306E\u30DC\u30FC\u30C0\u30FC\u306E\u6307\u5B9A\u304C\u9593\u9055\u3063\u3066\u3044\u305F\u5834\u5408\u6B63\u3057\u304F\u30A8\u30E9\u30FC\u3068\u306A\u308B"/>
+  <testcase time="0.016" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="AllEachSurroundByborderTest"/>
+  <testcase time="0.012" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByborderTest"/>
+  <testcase time="0.006" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByborderLeftEdgeTest"/>
+  <testcase time="0.009" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByborderTopEdgeTest"/>
+  <testcase time="0.011" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundBySeveralBordersTest"/>
+  <testcase time="0.026" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="bordersOnEachSideTest"/>
+  <testcase time="0.005" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByBoxTest"/>
+  <testcase time="0.006" classname="com.github.kuxuxun.scotchtest.assertion.AssertBorderTest" name="surroundByBorderTest"/>
 </testsuite>

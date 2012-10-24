@@ -7,7 +7,7 @@
   <artifactId>scotchtest</artifactId>
   <packaging>jar</packaging>
   <name>scotchtest</name>
-  <version>0.0.2-alpha-2</version>
+  <version>0.0.3-alpha-1</version>
   <inceptionYear>2012</inceptionYear>
 
   <build>
@@ -79,7 +79,7 @@
     <dependency>
       <groupId>com.github.kuxuxun</groupId>
       <artifactId>scotch</artifactId>
-      <version>0.0.2-alpha-2</version>
+      <version>0.0.3-alpha-1</version>
     </dependency>
   </dependencies>
 </project>

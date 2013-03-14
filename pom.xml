@@ -28,7 +28,7 @@
 	    </dependency>
 	  </dependencies>
 	</plugin>
-	
+
 	<plugin>
 	  <artifactId>maven-deploy-plugin</artifactId>
 	  <configuration>
@@ -69,10 +69,10 @@
       </plugin>
     </plugins>
   </build>
-  <repositories> 
+  <repositories>
           <repository>
                   <id>kuxuxun.github</id>
-                  <url>https://github.com/kuxuxun/mvn-repo</url>
+                  <url>https://github.com/kuxuxun/mvn-repo/blob/master/repo/</url>
           </repository>
   </repositories>
   <dependencies>

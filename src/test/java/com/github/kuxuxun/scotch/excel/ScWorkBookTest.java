@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.junit.Test;
+import org.junit.Ignore;
 
 import com.github.kuxuxun.commonutil.ut.TestExpected;
 import com.github.kuxuxun.commonutil.ut.TestOutput;
@@ -16,6 +17,7 @@ import com.github.kuxuxun.scotch.excel.cell.ScFormulas;
 
 public class ScWorkBookTest {
 
+  @Ignore
 	@Test
 	public void assertFixCellValue() throws Exception {
 

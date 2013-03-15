@@ -72,7 +72,7 @@
   <repositories>
           <repository>
                   <id>kuxuxun.github</id>
-                  <url>https://github.com/kuxuxun/mvn-repo/blob/master/repo/</url>
+                  <url>https://raw.github.com/kuxuxun/mvn-repo/master/repo</url>
           </repository>
   </repositories>
   <dependencies>
